@@ -1,17 +1,12 @@
-## Welcome to CJ's homepage!
+# Welcome to CJ's homepage!
 
 Welcome to my hompeage 
 
-### Markdown
+## My First App with Kotlin
 
-testing
-
-# Header 1
-
-test 1
-
-## Header 2
-### Header 3
+## Maker Fridays!
 
 
 ### Support or Contact
+https://www.linkedin.com/in/cheejenngeh/
+cheejen93@gmail.com
