@@ -8,5 +8,5 @@ Welcome to my hompeage
 
 
 ### Support or Contact
-https://www.linkedin.com/in/cheejenngeh/
-cheejen93@gmail.com
+[LinkedIn](https://www.linkedin.com/in/cheejenngeh/)
+[E-mail](cheejen93@gmail.com)
