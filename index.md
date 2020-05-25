@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page!
+## Welcome to CJ's homepage!
 
 Welcome to my hompeage 
 
